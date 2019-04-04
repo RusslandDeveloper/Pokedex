@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pokedex_Jaime</string>
+    <string name="txtV_startpokedex">Start Pokedex!</string>
+    <string name="title_pokeapi">PokeApi</string>
+    <string name="txtV_tm">TM</string>
+    <string name="txtV_copyright">.@2019 Mobile Consulting Solutions inc</string>
+    <string name="baseURL">https://raw.githubusercontent.com/Biuni/PokemonGO-Pokedex/master/</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
